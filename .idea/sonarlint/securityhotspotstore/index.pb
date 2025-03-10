@@ -13,3 +13,7 @@ c
 3contracts/ontological-consistency-verification.clar,f/e/fec6839547f4c4d3c68566b44b972db2c8d87987
 b
 2tests/ontological-consistency-verification.test.ts,2/4/243574068e8ff5b38f89405f7470ec04386558e3
+W
+'contracts/reality-patch-deployment.clar,b/3/b3bf0dbf24b4b542b53be4596dfd237e4a3f893b
+V
+&tests/reality-patch-deployment.test.ts,9/3/93f47bca044e06f89055b0dffe7c3a34183c0ff0
