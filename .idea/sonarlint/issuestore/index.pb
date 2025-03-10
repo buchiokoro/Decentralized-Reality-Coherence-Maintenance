@@ -9,3 +9,7 @@ c
 3contracts/fundamental-contradiction-resolution.clar,f/7/f7b5b201ceeb7ffd07733a93fd78829637b7756d
 b
 2tests/fundamental-contradiction-resolution.test.ts,4/7/4725fc841d887406595ef5c291471213a36c3a1c
+c
+3contracts/ontological-consistency-verification.clar,f/e/fec6839547f4c4d3c68566b44b972db2c8d87987
+b
+2tests/ontological-consistency-verification.test.ts,2/4/243574068e8ff5b38f89405f7470ec04386558e3
